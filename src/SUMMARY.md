@@ -44,7 +44,7 @@
   * [生成规则](entity/spawn-rules.md)
   * [渲染控制器](entity/render-controllers.md)
   * [虚拟组件](entity/dummy-components.md)
-  * [自定义 NPC]()  
+  * [自定义 NPC](entity/custom-npc.md)  
   
   
 
