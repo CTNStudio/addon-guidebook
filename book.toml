@@ -1,0 +1,29 @@
+[book]
+title = "附加包小册 (Addon Guidebook)"
+authors = ["方琉璃"]
+description = "一本全面的 Minecraft 基岩版开发指南"
+language = "zh-CN"
+
+[rust]
+edition = "2024"
+
+[build]
+build-dir = "book"
+create-missing = false
+
+[preprocessor.index]
+[preprocessor.links]
+
+[output.html]
+additional-js = ["assets/js/elasticlunr.js", "assets/js/fzf.umd.js"]
+
+[output.html.search]
+limit-results = 15
+
+[output.html.playground]
+editable = true
+
+[output.html.fold]
+enable = true
+
+
