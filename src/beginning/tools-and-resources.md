@@ -67,8 +67,8 @@
 
 过去的内容日志一般会被保存在下面的位置：
 
-- **Windows UWP**：`%LocalAppData%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe`；
-- **Android** ：`*root storage location*/games/com.mojang/logs`；
+- **Windows UWP**：`C:/Users/你的用户名/AppData/Roaming/Minecraft Bedrock/logs`；
+- **Android** ：`/storage/emulated/0/Android/data/com.mojang.minecraftpe/logs`；
 - **iOS** ：`*root storage location*/Minecraft/game/com.mojang/logs`
 
 ### 查看与复制坐标
