@@ -124,4 +124,4 @@
 * [附录](appendix/README.md)
   * [相关资料](appendix/documents.md)
   * [术语表]()
-  * [版权说明]()
+  * [版权说明](appendix/copyright.md)

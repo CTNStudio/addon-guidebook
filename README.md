@@ -4,6 +4,10 @@
 
 本书使用 mdBook 进行构建。
 
+## 未来愿景
+
+以原生态中文提供中文社区内最全面、最易懂的附加包中文文献。
+
 ## 许可协议
 
 Addon Guidebook © 2026 by Fang Limao is licensed under Creative Commons Attribution-ShareAlike 4.0 International. 
