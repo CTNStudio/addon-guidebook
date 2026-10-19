@@ -9,3 +9,18 @@
 > 其设计目标是在保持高性能的同时，为动画等低级系统提供数据驱动的可变行为支持。
 
 我们可以在几乎任何附加包的 JSON 文件中使用 Molang，短短几行便可以完成一个复杂且灵活的需求。
+
+## 在行为包中使用 Molang
+
+```json
+"example:entity_adult": {
+  "minecraft:experience_reward": {
+    "on_bred": "Math.Random(1,7)",
+    "on_death": "query.last_hit_by_player ? Math.Random(1,3) : 0"
+  },
+}
+```
+
+## Molang 与客户端资源
+
+## 小结
