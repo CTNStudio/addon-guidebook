@@ -97,7 +97,6 @@
 
 # 第六部分·脚本 API
 
-- [JavaScript 基础](scripting/js-intro/README.md)
 - [脚本导论](scripting/README.md)
   - [创建脚本项目](scripting/start.md)
   - [事件监听](scripting/event.md)
